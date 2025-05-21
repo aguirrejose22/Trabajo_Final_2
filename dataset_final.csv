@@ -1,0 +1,1001 @@
+machine_id,evento,fecha,operario,tiempo_segundos,model,location,install_date,last_maintenance,certified_operator
+1,Mantenimiento preventivo,2023-06-10,Lucía Gómez,1623,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-08-08,Sofía Romero,254,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-03-22,Ana Martínez,37,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-04-02,Andrés Castro,363,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-07-25,Luis Torres,1716,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-05-23,Marta Díaz,1498,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-11-12,Ana Martínez,555,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-08-15,Pedro Sánchez,1667,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-09-20,Elena Rivas,454,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-11-12,Ana Martínez,1447,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-05-31,Lucía Gómez,41,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-02-01,Lucía Gómez,1457,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-05-04,Ana Martínez,792,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-02-23,Juan López,201,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-08-15,Pedro Sánchez,534,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-10-17,Elena Rivas,1444,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-01-03,Lucía Gómez,932,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-03-10,Ana Martínez,603,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-02-16,Ana Martínez,1795,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-11-17,Marta Díaz,120,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-09-10,Luis Torres,1233,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-04-08,Juan López,1270,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-03-28,Lucía Gómez,929,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-12-18,Luis Torres,500,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-09-17,Juan López,1788,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-06-18,Marta Díaz,1793,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-02-18,Sofía Romero,71,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-06-22,Ana Martínez,1276,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-10-15,Lucía Gómez,699,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-09-22,Elena Rivas,1254,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-12-31,Sofía Romero,1523,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-05-20,Elena Rivas,1492,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-04-27,Elena Rivas,331,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-01-17,Elena Rivas,739,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-04-06,Andrés Castro,1193,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-03-20,Pedro Sánchez,234,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-11-08,Andrés Castro,865,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-11-02,Lucía Gómez,222,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-05-05,Marta Díaz,776,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-10-07,Andrés Castro,1698,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-01-28,Marta Díaz,1004,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-08-24,Pedro Sánchez,60,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-01-05,Carlos Pérez,1117,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-12-07,Pedro Sánchez,718,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-10-13,Andrés Castro,899,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-02-09,Carlos Pérez,79,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-05-22,Ana Martínez,200,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-04-14,Elena Rivas,1411,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-02-22,Pedro Sánchez,250,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-08-10,Marta Díaz,1035,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-09-07,Lucía Gómez,544,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-10-07,Elena Rivas,831,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-03-08,Sofía Romero,955,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-01-05,Luis Torres,952,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-10-08,Luis Torres,1405,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-11-03,Elena Rivas,360,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-05-24,Juan López,555,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-02-11,Juan López,1246,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-12-31,Andrés Castro,863,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-09-13,Juan López,288,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-06-05,Ana Martínez,228,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-05-23,Elena Rivas,1130,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-01-28,Andrés Castro,523,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-12-02,Sofía Romero,1145,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-06-08,Carlos Pérez,1626,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-01-11,Sofía Romero,815,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-12-26,Andrés Castro,512,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-07-20,Sofía Romero,630,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-07-21,Sofía Romero,1410,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-05-28,Elena Rivas,916,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-11-18,Marta Díaz,202,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-01-30,Luis Torres,571,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-07-29,Lucía Gómez,782,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-05-01,Pedro Sánchez,780,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-09-04,Luis Torres,1436,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-04-30,Elena Rivas,1174,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-08-14,Pedro Sánchez,485,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-04-03,Juan López,435,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-03-27,Carlos Pérez,1156,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-02-25,Ana Martínez,301,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-02-15,Lucía Gómez,1184,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-06-05,Elena Rivas,702,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-11-05,Marta Díaz,78,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-07-21,Sofía Romero,202,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-11-19,Carlos Pérez,776,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-11-27,Sofía Romero,652,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-11-25,Pedro Sánchez,187,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-03-15,Juan López,236,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-08-28,Pedro Sánchez,1635,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-12-10,Luis Torres,1622,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-02-20,Sofía Romero,282,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-10-13,Luis Torres,1441,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-02-26,Elena Rivas,1231,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-06-29,Juan López,1330,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-12-24,Elena Rivas,272,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-01-26,Juan López,886,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-06-14,Ana Martínez,1306,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-04-18,Luis Torres,671,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-10-24,Marta Díaz,622,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-02-02,Sofía Romero,1617,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-07-27,Ana Martínez,894,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-04-26,Sofía Romero,279,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-08-12,Marta Díaz,719,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-09-13,Marta Díaz,750,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-05-21,Andrés Castro,547,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-07-16,Carlos Pérez,1389,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-03-09,Sofía Romero,258,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-02-02,Pedro Sánchez,839,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2024-01-01,Juan López,1579,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-10-07,Ana Martínez,1372,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-03-09,Lucía Gómez,757,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-09-23,Juan López,617,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-10-01,Elena Rivas,1562,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-12-08,Luis Torres,539,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-11-28,Juan López,1060,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-08-11,Marta Díaz,1674,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-08-30,Luis Torres,209,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-10-22,Juan López,1718,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-12-18,Elena Rivas,266,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-01-23,Andrés Castro,516,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-03-01,Luis Torres,1259,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-03-02,Sofía Romero,271,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-03-11,Luis Torres,908,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-07-31,Carlos Pérez,237,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-04-12,Andrés Castro,295,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-01-04,Andrés Castro,1703,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-10-23,Marta Díaz,1432,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-02-13,Luis Torres,815,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-06-05,Pedro Sánchez,435,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-02-02,Luis Torres,640,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-05-08,Marta Díaz,1735,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-04-08,Juan López,98,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-02-11,Pedro Sánchez,566,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-09-24,Sofía Romero,954,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-08-29,Luis Torres,55,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-02-07,Lucía Gómez,430,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-06-23,Elena Rivas,669,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-02-16,Juan López,1498,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-12-25,Ana Martínez,1565,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-04-06,Lucía Gómez,315,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-08-23,Sofía Romero,663,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-05-12,Marta Díaz,1459,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-03-22,Marta Díaz,1204,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-08-27,Carlos Pérez,1180,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-06-08,Andrés Castro,104,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-08-13,Marta Díaz,1403,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-03-18,Marta Díaz,1236,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-09-25,Ana Martínez,704,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-01-04,Marta Díaz,1724,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-04-05,Juan López,311,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-01-16,Pedro Sánchez,522,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-11-13,Pedro Sánchez,97,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-05-09,Ana Martínez,574,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-12-30,Luis Torres,102,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-08-21,Elena Rivas,1010,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-10-10,Marta Díaz,1399,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-05-09,Juan López,1484,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-11-04,Ana Martínez,728,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-05-21,Ana Martínez,1142,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-05-28,Lucía Gómez,407,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-12-14,Juan López,1323,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-07-16,Lucía Gómez,536,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-07-09,Juan López,1352,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-05-19,Sofía Romero,1319,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-06-08,Luis Torres,33,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-10-07,Marta Díaz,1305,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-05-24,Ana Martínez,572,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-03-14,Pedro Sánchez,335,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-11-02,Elena Rivas,1084,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-12-08,Lucía Gómez,206,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-12-27,Elena Rivas,830,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-03-01,Sofía Romero,84,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-05-24,Luis Torres,399,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-05-08,Andrés Castro,199,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-08-08,Juan López,275,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-04-23,Luis Torres,106,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-04-10,Pedro Sánchez,550,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-01-04,Andrés Castro,847,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-04-10,Juan López,725,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Parada de línea,2023-07-07,Carlos Pérez,235,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-09-12,Lucía Gómez,98,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Alarma de sensor,2023-03-06,Marta Díaz,1386,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-04-02,Luis Torres,1693,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-04-08,Juan López,1698,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-10-17,Andrés Castro,421,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-03-11,Carlos Pérez,305,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-10-14,Carlos Pérez,573,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Desempaque manual,2023-01-01,Sofía Romero,926,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-07-27,Sofía Romero,1526,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Inicio de operación,2023-03-26,Juan López,1614,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Error en cinta,2023-12-31,Sofía Romero,498,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-10-10,Luis Torres,1103,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-08-18,Pedro Sánchez,822,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Intervención técnica,2023-06-10,Juan López,446,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-08-15,Elena Rivas,247,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-11-28,Juan López,904,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Reinicio del sistema,2023-04-09,Ana Martínez,199,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Prueba de sensores,2023-12-06,Elena Rivas,312,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Mantenimiento preventivo,2023-10-09,Andrés Castro,754,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+1,Limpieza programada,2023-10-04,Lucía Gómez,650,Modelo A,Línea 1,2021-01-10,2023-03-15,Carlos Pérez
+2,Desempaque manual,2023-06-01,Lucía Gómez,1674,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-02-02,Sofía Romero,1165,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-07-04,Pedro Sánchez,322,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-06-24,Marta Díaz,1525,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-04-17,Carlos Pérez,811,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-09-25,Juan López,658,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-04-04,Carlos Pérez,1174,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-01-11,Sofía Romero,642,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-08-16,Luis Torres,543,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-04-14,Marta Díaz,1799,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-05-28,Sofía Romero,1027,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-05-02,Elena Rivas,1234,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-10-15,Lucía Gómez,1790,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-08-09,Sofía Romero,1401,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-07-08,Marta Díaz,140,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-09-27,Lucía Gómez,1620,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-03-16,Juan López,437,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-06-09,Lucía Gómez,646,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-08-13,Elena Rivas,1479,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-08-26,Ana Martínez,253,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-04-08,Carlos Pérez,880,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-03-26,Andrés Castro,1107,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-09-07,Elena Rivas,1052,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-03-07,Sofía Romero,232,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-10-30,Carlos Pérez,114,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-03-16,Carlos Pérez,1245,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-03-23,Pedro Sánchez,1696,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-07-08,Sofía Romero,735,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-01-24,Luis Torres,1026,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-01-12,Sofía Romero,731,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-01-30,Sofía Romero,1192,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-07-30,Ana Martínez,1372,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-06-14,Ana Martínez,140,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-05-21,Andrés Castro,505,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-09-18,Andrés Castro,1028,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-02-06,Sofía Romero,1031,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-11-11,Elena Rivas,1348,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-04-23,Juan López,424,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-09-03,Ana Martínez,831,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-01-08,Marta Díaz,642,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-02-15,Juan López,807,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-12-29,Andrés Castro,449,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-09-17,Carlos Pérez,831,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-07-21,Juan López,292,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-03-14,Andrés Castro,424,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-10-29,Luis Torres,1025,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-05-23,Elena Rivas,1627,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-04-30,Pedro Sánchez,233,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-05-28,Juan López,1658,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-11-03,Lucía Gómez,1457,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-09-07,Andrés Castro,315,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-06-06,Carlos Pérez,1457,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-01-09,Sofía Romero,170,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-07-06,Carlos Pérez,32,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-02-07,Sofía Romero,138,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-04-09,Pedro Sánchez,1123,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-10-31,Andrés Castro,1000,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-08-19,Juan López,317,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-05-04,Ana Martínez,1754,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-08-05,Elena Rivas,363,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-05-20,Sofía Romero,335,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-04-24,Andrés Castro,1529,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-08-17,Lucía Gómez,831,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-12-06,Elena Rivas,1519,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-01-10,Pedro Sánchez,240,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-02-18,Sofía Romero,220,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-09-14,Pedro Sánchez,1672,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-04-23,Ana Martínez,828,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-05-20,Ana Martínez,121,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-12-08,Marta Díaz,773,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-11-03,Sofía Romero,1344,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-03-07,Luis Torres,507,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-05-03,Carlos Pérez,831,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-11-14,Elena Rivas,1221,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-11-11,Elena Rivas,331,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-03-29,Sofía Romero,1192,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-12-22,Marta Díaz,436,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-01-19,Sofía Romero,929,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-06-30,Sofía Romero,1015,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-02-19,Carlos Pérez,66,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-12-03,Ana Martínez,37,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-12-28,Pedro Sánchez,692,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-07-28,Lucía Gómez,1244,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-10-17,Luis Torres,1270,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-06-16,Elena Rivas,1435,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-12-21,Luis Torres,313,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-11-05,Pedro Sánchez,521,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-10-28,Pedro Sánchez,955,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-03-01,Elena Rivas,1463,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-01-25,Andrés Castro,363,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-08-06,Andrés Castro,1222,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-05-02,Elena Rivas,965,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-04-26,Carlos Pérez,890,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-02-26,Juan López,1288,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-02-04,Carlos Pérez,558,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-07-16,Luis Torres,1503,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-12-24,Carlos Pérez,1735,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-03-22,Elena Rivas,1208,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-04-15,Lucía Gómez,129,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-05-16,Ana Martínez,1282,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-02-09,Juan López,1274,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-08-14,Marta Díaz,49,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-11-19,Luis Torres,287,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-12-08,Pedro Sánchez,1188,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-08-04,Pedro Sánchez,1389,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-06-14,Marta Díaz,1059,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-12-31,Ana Martínez,1539,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-08-03,Andrés Castro,267,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-07-16,Carlos Pérez,1339,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-06-19,Luis Torres,269,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-03-29,Ana Martínez,657,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-09-25,Andrés Castro,1178,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-03-09,Marta Díaz,713,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-01-01,Elena Rivas,859,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-06-08,Elena Rivas,856,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-02-24,Sofía Romero,1150,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-06-21,Juan López,1418,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-06-14,Elena Rivas,1295,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-03-17,Juan López,611,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-07-16,Lucía Gómez,436,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-09-13,Elena Rivas,1388,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-11-08,Ana Martínez,119,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-02-01,Carlos Pérez,1397,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-02-01,Marta Díaz,1399,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-02-13,Lucía Gómez,227,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-07-09,Juan López,881,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-06-30,Andrés Castro,1380,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-08-03,Luis Torres,216,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-06-17,Marta Díaz,100,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-11-22,Elena Rivas,270,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-09-25,Andrés Castro,1219,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-09-07,Luis Torres,665,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-02-26,Marta Díaz,681,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-01-31,Elena Rivas,1085,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-11-26,Carlos Pérez,609,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-08-26,Marta Díaz,1141,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-03-07,Juan López,1592,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-05-14,Luis Torres,1602,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-01-19,Sofía Romero,1415,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-03-18,Juan López,852,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-08-03,Andrés Castro,378,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-12-30,Juan López,790,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-06-08,Pedro Sánchez,564,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-12-12,Pedro Sánchez,214,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-11-08,Juan López,480,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-10-21,Juan López,1239,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-05-22,Andrés Castro,1123,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-04-10,Juan López,1029,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-12-12,Marta Díaz,761,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-03-22,Ana Martínez,384,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-12-31,Sofía Romero,593,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-09-02,Sofía Romero,159,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-01-04,Andrés Castro,1468,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-03-13,Andrés Castro,1708,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-08-26,Luis Torres,912,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-07-14,Lucía Gómez,1147,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-03-29,Sofía Romero,1004,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-02-21,Marta Díaz,1055,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-11-27,Elena Rivas,1268,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-05-05,Lucía Gómez,37,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-01-15,Andrés Castro,1237,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-12-02,Lucía Gómez,1174,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-04-11,Luis Torres,765,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-03-22,Luis Torres,1032,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-01-10,Carlos Pérez,1380,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-12-07,Elena Rivas,438,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-07-04,Carlos Pérez,457,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-09-08,Elena Rivas,364,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-04-07,Ana Martínez,1335,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-05-27,Carlos Pérez,1546,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-04-08,Ana Martínez,243,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-10-02,Juan López,233,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-11-25,Andrés Castro,386,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-09-24,Elena Rivas,260,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-09-04,Ana Martínez,857,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-03-15,Juan López,55,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Prueba de sensores,2023-07-04,Juan López,1619,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-01-03,Andrés Castro,818,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-01-20,Luis Torres,226,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Parada de línea,2023-05-08,Lucía Gómez,532,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-06-21,Ana Martínez,152,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-07-29,Luis Torres,1295,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-05-10,Andrés Castro,1024,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-05-05,Luis Torres,940,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-05-04,Marta Díaz,1163,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Limpieza programada,2023-05-04,Pedro Sánchez,1068,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-12-02,Marta Díaz,743,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Reinicio del sistema,2023-09-30,Andrés Castro,683,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-04-10,Lucía Gómez,757,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-06-02,Luis Torres,854,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-09-13,Marta Díaz,1557,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Desempaque manual,2023-12-05,Elena Rivas,1269,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-05-31,Sofía Romero,495,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Alarma de sensor,2023-07-10,Lucía Gómez,1494,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-12-03,Elena Rivas,1593,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-12-07,Ana Martínez,1698,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Intervención técnica,2023-07-18,Andrés Castro,228,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Error en cinta,2023-02-20,Lucía Gómez,1364,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Mantenimiento preventivo,2023-07-08,Elena Rivas,559,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+2,Inicio de operación,2023-04-13,Juan López,966,Modelo B,Línea 2,2020-07-20,2023-05-02,Ana Martínez
+3,Inicio de operación,2023-05-09,Andrés Castro,976,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-01-14,Sofía Romero,919,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-12-24,Sofía Romero,1667,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-10-27,Pedro Sánchez,1113,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-04-09,Lucía Gómez,1195,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-03-08,Pedro Sánchez,146,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-05-05,Pedro Sánchez,533,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-08-22,Sofía Romero,1631,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-05-08,Elena Rivas,1132,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-07-15,Sofía Romero,1558,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-04-14,Marta Díaz,461,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-02-11,Juan López,1704,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-04-14,Elena Rivas,1516,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-08-29,Andrés Castro,777,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-02-02,Elena Rivas,1472,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-07-28,Carlos Pérez,157,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-04-14,Marta Díaz,638,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-08-15,Luis Torres,364,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-03-13,Elena Rivas,1109,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-05-27,Elena Rivas,1322,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-10-28,Pedro Sánchez,342,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-07-21,Lucía Gómez,958,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-08-11,Elena Rivas,1113,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-12-17,Marta Díaz,419,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-02-04,Andrés Castro,386,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-08-10,Marta Díaz,86,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-05-09,Carlos Pérez,1519,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-10-29,Andrés Castro,557,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-04-07,Pedro Sánchez,409,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-01-12,Marta Díaz,1678,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-11-03,Pedro Sánchez,1346,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-12-09,Carlos Pérez,1606,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-05-23,Elena Rivas,489,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-05-04,Carlos Pérez,817,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-03-02,Andrés Castro,742,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-04-10,Pedro Sánchez,1177,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-01-28,Sofía Romero,1442,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-08-29,Pedro Sánchez,1751,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-12-04,Carlos Pérez,636,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-01-31,Andrés Castro,1227,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-01-14,Lucía Gómez,428,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-09-02,Juan López,623,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-05-10,Elena Rivas,1272,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-01-27,Juan López,995,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-04-16,Marta Díaz,1294,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-03-06,Elena Rivas,468,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-09-11,Sofía Romero,1268,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-08-22,Lucía Gómez,384,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-04-11,Juan López,1730,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-08-07,Juan López,1126,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-01-10,Sofía Romero,1714,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-01-19,Andrés Castro,1457,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-05-13,Carlos Pérez,691,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-09-17,Pedro Sánchez,1038,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-05-02,Luis Torres,510,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-09-30,Luis Torres,724,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-11-23,Juan López,1473,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-12-21,Ana Martínez,961,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-09-04,Pedro Sánchez,1701,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-12-02,Elena Rivas,783,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-04-14,Andrés Castro,96,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-01-07,Pedro Sánchez,549,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-11-16,Lucía Gómez,68,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-09-19,Carlos Pérez,289,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-06-26,Carlos Pérez,486,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-12-09,Andrés Castro,721,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-09-08,Marta Díaz,213,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-12-28,Sofía Romero,416,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-01-22,Elena Rivas,1404,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-08-11,Lucía Gómez,458,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-03-06,Andrés Castro,670,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-12-17,Pedro Sánchez,916,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-09-08,Marta Díaz,1415,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-10-23,Pedro Sánchez,555,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-06-24,Luis Torres,657,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-02-14,Sofía Romero,1063,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-05-07,Carlos Pérez,498,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-09-08,Juan López,450,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-04-08,Marta Díaz,424,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-06-23,Pedro Sánchez,1245,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-02-12,Pedro Sánchez,718,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-03-03,Pedro Sánchez,605,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-04-25,Marta Díaz,1771,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-04-21,Juan López,1205,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-10-07,Elena Rivas,602,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-08-06,Lucía Gómez,1362,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-03-16,Pedro Sánchez,431,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-04-25,Luis Torres,1450,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-07-18,Pedro Sánchez,54,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-06-10,Sofía Romero,715,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-05-29,Pedro Sánchez,254,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-01-05,Andrés Castro,1629,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-12-04,Juan López,323,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-08-11,Carlos Pérez,787,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-01-27,Pedro Sánchez,946,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-11-05,Ana Martínez,181,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-04-28,Pedro Sánchez,740,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-03-05,Pedro Sánchez,403,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-05-08,Andrés Castro,1652,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2024-01-01,Ana Martínez,424,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-05-12,Pedro Sánchez,694,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-11-16,Pedro Sánchez,189,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-10-20,Ana Martínez,331,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-09-15,Lucía Gómez,1590,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-02-01,Ana Martínez,627,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-10-28,Elena Rivas,1299,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-08-16,Marta Díaz,1180,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-09-24,Elena Rivas,1081,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-09-23,Elena Rivas,723,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-04-19,Marta Díaz,467,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-11-24,Elena Rivas,1159,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-05-19,Sofía Romero,972,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-04-24,Sofía Romero,994,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-07-18,Sofía Romero,1006,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-02-14,Andrés Castro,930,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-07-31,Andrés Castro,997,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-08-23,Marta Díaz,393,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-12-17,Andrés Castro,55,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-12-28,Marta Díaz,589,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-10-07,Andrés Castro,1782,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-02-19,Luis Torres,723,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-01-01,Ana Martínez,735,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-07-19,Elena Rivas,987,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-09-11,Luis Torres,734,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-08-27,Ana Martínez,182,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-12-29,Andrés Castro,996,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-03-06,Juan López,719,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-08-05,Marta Díaz,416,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-03-20,Elena Rivas,1758,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-08-30,Elena Rivas,1054,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-09-13,Andrés Castro,1773,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-03-22,Andrés Castro,1638,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-02-06,Andrés Castro,952,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-08-05,Lucía Gómez,296,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-12-25,Elena Rivas,1375,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-03-11,Carlos Pérez,1196,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-11-23,Pedro Sánchez,1014,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-09-10,Luis Torres,799,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-01-26,Lucía Gómez,485,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-07-07,Lucía Gómez,1583,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-05-24,Elena Rivas,1327,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-07-01,Pedro Sánchez,474,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-11-13,Luis Torres,1462,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-03-16,Elena Rivas,1704,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-09-18,Elena Rivas,1208,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-11-18,Andrés Castro,1663,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-05-01,Sofía Romero,1190,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-01-24,Ana Martínez,261,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-01-11,Ana Martínez,1689,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-08-18,Sofía Romero,1464,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-04-24,Lucía Gómez,662,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-09-20,Andrés Castro,823,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-06-05,Lucía Gómez,1220,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-06-06,Pedro Sánchez,1489,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-03-21,Carlos Pérez,391,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-07-21,Ana Martínez,1164,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-02-28,Pedro Sánchez,534,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-04-10,Pedro Sánchez,1534,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-11-04,Sofía Romero,529,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-09-04,Sofía Romero,1541,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-01-31,Luis Torres,1372,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-09-23,Marta Díaz,570,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-06-13,Ana Martínez,1448,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-02-21,Juan López,1191,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-03-20,Lucía Gómez,371,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-05-19,Andrés Castro,816,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-07-13,Ana Martínez,40,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-05-07,Juan López,1783,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-11-15,Carlos Pérez,477,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-12-30,Sofía Romero,868,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-07-26,Andrés Castro,1211,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Inicio de operación,2023-06-29,Pedro Sánchez,1443,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-07-31,Carlos Pérez,523,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-05-11,Marta Díaz,388,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-03-19,Pedro Sánchez,298,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-02-26,Lucía Gómez,298,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-10-06,Pedro Sánchez,1559,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-03-16,Andrés Castro,1738,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-11-06,Sofía Romero,1191,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-12-15,Marta Díaz,1423,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-05-04,Carlos Pérez,756,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-01-03,Elena Rivas,294,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-02-11,Andrés Castro,786,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-04-14,Andrés Castro,422,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-08-14,Luis Torres,934,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-06-10,Carlos Pérez,594,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-04-16,Sofía Romero,1211,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Desempaque manual,2023-07-08,Marta Díaz,724,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-07-06,Ana Martínez,275,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Alarma de sensor,2023-05-31,Marta Díaz,675,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-04-29,Ana Martínez,1309,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-01-15,Luis Torres,542,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Intervención técnica,2023-11-17,Juan López,508,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Error en cinta,2023-05-20,Luis Torres,61,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-11-29,Lucía Gómez,57,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Limpieza programada,2023-10-27,Sofía Romero,266,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Parada de línea,2023-04-01,Elena Rivas,68,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Mantenimiento preventivo,2023-09-20,Sofía Romero,1485,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Reinicio del sistema,2023-08-01,Pedro Sánchez,1356,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+3,Prueba de sensores,2023-06-20,Marta Díaz,1279,Modelo C,Línea 3,2022-02-28,2023-04-10,Juan López
+4,Error en cinta,2023-06-02,Andrés Castro,1324,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-12-06,Luis Torres,949,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-07-19,Andrés Castro,540,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-08-23,Marta Díaz,956,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-07-17,Marta Díaz,1183,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-07-21,Carlos Pérez,175,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-04-01,Carlos Pérez,710,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-11-12,Carlos Pérez,1577,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-04-03,Andrés Castro,1702,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-05-23,Marta Díaz,1150,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-10-19,Ana Martínez,358,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-03-31,Pedro Sánchez,801,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-08-02,Sofía Romero,40,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-06-02,Elena Rivas,1734,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-12-09,Elena Rivas,1436,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-02-01,Andrés Castro,1116,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-11-06,Pedro Sánchez,1410,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-01-09,Andrés Castro,284,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-11-14,Marta Díaz,738,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-12-15,Elena Rivas,1158,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-08-07,Carlos Pérez,1477,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-05-03,Pedro Sánchez,1190,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-11-18,Sofía Romero,1524,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-02-22,Ana Martínez,325,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-09-03,Andrés Castro,34,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-07-20,Lucía Gómez,1107,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-07-27,Juan López,1445,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-06-08,Marta Díaz,1117,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-05-09,Ana Martínez,649,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-10-07,Luis Torres,1434,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-12-21,Luis Torres,408,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-11-27,Lucía Gómez,1675,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-04-22,Lucía Gómez,1433,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-01-05,Pedro Sánchez,1459,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-05-12,Pedro Sánchez,826,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-06-06,Marta Díaz,1478,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-10-25,Luis Torres,527,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-11-07,Elena Rivas,380,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-06-04,Marta Díaz,1052,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-02-01,Pedro Sánchez,260,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-08-31,Marta Díaz,1390,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-05-01,Ana Martínez,1078,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-03-12,Juan López,1301,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-01-12,Juan López,1182,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-08-27,Carlos Pérez,1719,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-05-09,Elena Rivas,872,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-10-30,Carlos Pérez,419,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-08-26,Luis Torres,1145,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-07-03,Lucía Gómez,1442,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-01-31,Carlos Pérez,1164,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-06-05,Pedro Sánchez,552,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-12-26,Carlos Pérez,1337,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-05-15,Andrés Castro,1673,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-08-01,Lucía Gómez,821,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-01-02,Ana Martínez,1749,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-12-24,Andrés Castro,998,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-12-02,Sofía Romero,1509,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-02-02,Andrés Castro,652,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-10-28,Pedro Sánchez,1465,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-02-23,Ana Martínez,563,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-07-11,Elena Rivas,1104,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-10-14,Andrés Castro,1787,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-11-01,Ana Martínez,512,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-02-27,Ana Martínez,962,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-03-03,Pedro Sánchez,1618,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-09-28,Elena Rivas,265,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-05-07,Luis Torres,354,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-08-26,Pedro Sánchez,1250,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-09-15,Ana Martínez,139,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-09-02,Andrés Castro,169,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-11-20,Sofía Romero,1383,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-01-25,Sofía Romero,1045,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-06-09,Sofía Romero,1045,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-08-22,Marta Díaz,1407,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-12-19,Juan López,1431,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-03-04,Elena Rivas,583,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-12-27,Juan López,1055,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-08-12,Luis Torres,1573,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-12-27,Lucía Gómez,1260,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-07-02,Andrés Castro,1117,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-10-23,Sofía Romero,491,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-04-03,Sofía Romero,209,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-02-09,Carlos Pérez,1319,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-07-31,Sofía Romero,1357,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-06-12,Andrés Castro,1299,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-03-07,Carlos Pérez,561,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-12-07,Sofía Romero,75,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-03-08,Carlos Pérez,269,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-09-17,Marta Díaz,1256,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-12-09,Elena Rivas,1664,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-06-20,Marta Díaz,875,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-05-31,Pedro Sánchez,1798,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-11-06,Luis Torres,1571,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-01-17,Marta Díaz,1347,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-08-24,Elena Rivas,518,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-04-12,Luis Torres,1369,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-07-22,Sofía Romero,55,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-07-03,Elena Rivas,1067,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-07-06,Sofía Romero,500,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-08-06,Ana Martínez,631,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-01-08,Juan López,1795,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-07-16,Marta Díaz,1387,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-07-24,Luis Torres,955,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-04-03,Lucía Gómez,690,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-07-10,Sofía Romero,1730,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-07-02,Luis Torres,913,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-05-28,Marta Díaz,81,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-03-27,Andrés Castro,212,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-04-02,Elena Rivas,787,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-06-29,Sofía Romero,299,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-11-28,Marta Díaz,817,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-12-24,Ana Martínez,402,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-05-26,Lucía Gómez,338,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-08-30,Luis Torres,1651,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-08-29,Pedro Sánchez,739,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-04-05,Elena Rivas,282,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-06-12,Carlos Pérez,363,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-09-09,Marta Díaz,530,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-06-02,Andrés Castro,698,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-10-18,Sofía Romero,478,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-09-23,Elena Rivas,1006,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-10-08,Marta Díaz,889,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-10-19,Juan López,757,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-06-16,Lucía Gómez,219,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-12-25,Lucía Gómez,1238,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-06-17,Ana Martínez,1742,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-06-06,Marta Díaz,386,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-06-23,Ana Martínez,1016,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-11-05,Ana Martínez,1531,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-06-25,Lucía Gómez,1692,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-11-16,Andrés Castro,1266,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-09-23,Lucía Gómez,788,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-11-24,Elena Rivas,1562,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-10-06,Marta Díaz,1653,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-02-27,Pedro Sánchez,442,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-09-08,Sofía Romero,253,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-06-12,Andrés Castro,796,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-03-24,Ana Martínez,298,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-08-27,Ana Martínez,600,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-04-11,Pedro Sánchez,1342,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-06-30,Luis Torres,1158,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-02-12,Ana Martínez,488,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-08-08,Luis Torres,229,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-01-09,Carlos Pérez,1658,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-01-31,Ana Martínez,71,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-12-28,Pedro Sánchez,1026,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-08-01,Sofía Romero,1037,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-03-16,Carlos Pérez,1197,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-01-02,Juan López,307,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-03-31,Ana Martínez,782,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-04-21,Pedro Sánchez,357,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-06-12,Andrés Castro,1712,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-11-02,Lucía Gómez,1302,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-01-11,Elena Rivas,1749,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-06-17,Sofía Romero,1007,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-01-12,Marta Díaz,1034,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-09-27,Luis Torres,282,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-04-04,Elena Rivas,677,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-12-31,Carlos Pérez,1254,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-10-30,Lucía Gómez,463,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-01-03,Sofía Romero,1558,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-08-19,Elena Rivas,42,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-02-03,Sofía Romero,797,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-03-26,Pedro Sánchez,512,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-08-17,Marta Díaz,64,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-04-16,Luis Torres,1795,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-02-11,Lucía Gómez,311,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-05-13,Sofía Romero,1462,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-12-26,Andrés Castro,1716,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-08-09,Sofía Romero,223,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-02-28,Sofía Romero,1165,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-05-14,Ana Martínez,1540,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-03-05,Ana Martínez,424,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-06-18,Juan López,1714,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-11-10,Lucía Gómez,718,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-11-11,Lucía Gómez,1297,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-04-15,Luis Torres,433,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-02-25,Elena Rivas,1762,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-11-23,Sofía Romero,1265,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-03-08,Pedro Sánchez,56,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-08-13,Lucía Gómez,538,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-02-18,Lucía Gómez,1227,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Parada de línea,2023-06-19,Carlos Pérez,509,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Reinicio del sistema,2023-04-03,Juan López,1277,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-01-03,Ana Martínez,719,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-04-24,Carlos Pérez,525,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-07-03,Ana Martínez,721,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-06-05,Lucía Gómez,1554,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-01-19,Marta Díaz,909,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Desempaque manual,2023-02-25,Andrés Castro,1437,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Mantenimiento preventivo,2023-12-11,Sofía Romero,519,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Intervención técnica,2023-09-23,Marta Díaz,526,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-03-10,Juan López,307,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Error en cinta,2023-01-30,Luis Torres,464,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-08-14,Andrés Castro,1663,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-06-26,Carlos Pérez,852,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Limpieza programada,2023-08-16,Ana Martínez,488,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Alarma de sensor,2023-02-03,Luis Torres,56,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Prueba de sensores,2023-09-14,Lucía Gómez,90,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+4,Inicio de operación,2023-11-14,Luis Torres,1683,Modelo A,Línea 4,2021-11-11,2023-02-18,Lucía Gómez
+5,Alarma de sensor,2023-01-27,Carlos Pérez,537,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-09-30,Luis Torres,558,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-07-03,Andrés Castro,672,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-03-25,Carlos Pérez,160,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-10-22,Pedro Sánchez,1762,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-07-04,Lucía Gómez,1356,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-03-04,Luis Torres,825,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-03-26,Marta Díaz,288,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-05-24,Pedro Sánchez,1258,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-01-16,Ana Martínez,1470,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-09-01,Lucía Gómez,1117,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-07-21,Luis Torres,741,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-12-25,Carlos Pérez,115,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-06-04,Sofía Romero,1176,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-04-05,Andrés Castro,1688,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-04-24,Luis Torres,1682,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-02-01,Andrés Castro,1441,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-06-28,Pedro Sánchez,1000,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-05-13,Sofía Romero,311,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-01-16,Pedro Sánchez,1729,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-12-22,Luis Torres,181,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-06-21,Sofía Romero,1542,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-11-28,Lucía Gómez,60,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-02-06,Sofía Romero,391,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-08-29,Juan López,489,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-09-25,Carlos Pérez,1061,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-08-11,Marta Díaz,108,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-02-09,Lucía Gómez,112,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-03-31,Ana Martínez,260,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-05-04,Marta Díaz,1283,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-03-04,Ana Martínez,266,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-02-07,Juan López,911,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-01-17,Elena Rivas,1008,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-01-11,Carlos Pérez,736,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-07-31,Ana Martínez,1685,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-08-13,Sofía Romero,1755,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-10-07,Luis Torres,959,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-07-11,Juan López,675,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-08-26,Pedro Sánchez,1086,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-10-13,Juan López,1402,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-05-15,Pedro Sánchez,304,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-09-08,Juan López,540,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-12-03,Andrés Castro,768,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-03-28,Luis Torres,256,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-09-29,Elena Rivas,1601,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-12-17,Carlos Pérez,219,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-07-23,Sofía Romero,839,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-05-16,Luis Torres,1513,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-02-04,Elena Rivas,620,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-04-16,Ana Martínez,1620,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-12-23,Carlos Pérez,534,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-03-25,Ana Martínez,927,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-06-15,Sofía Romero,1355,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-08-07,Elena Rivas,1655,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-07-03,Andrés Castro,240,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-11-28,Elena Rivas,353,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-05-10,Pedro Sánchez,1078,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-06-09,Carlos Pérez,150,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-03-13,Andrés Castro,225,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-09-24,Elena Rivas,1438,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-07-07,Sofía Romero,378,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-11-28,Carlos Pérez,508,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-03-12,Juan López,49,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-07-16,Marta Díaz,1657,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-02-13,Sofía Romero,1025,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-05-08,Andrés Castro,274,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-12-22,Andrés Castro,1544,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-09-29,Luis Torres,529,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-02-18,Juan López,119,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-09-29,Sofía Romero,1502,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-02-28,Pedro Sánchez,760,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-07-07,Ana Martínez,301,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-03-09,Juan López,1549,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-08-31,Lucía Gómez,968,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-07-24,Carlos Pérez,521,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-08-05,Sofía Romero,1624,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-04-02,Marta Díaz,771,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-10-15,Ana Martínez,1528,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-10-21,Ana Martínez,114,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-04-30,Lucía Gómez,572,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-11-20,Pedro Sánchez,1732,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-06-14,Luis Torres,1073,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-09-07,Andrés Castro,1013,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-12-17,Sofía Romero,645,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-09-22,Marta Díaz,1649,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-01-14,Luis Torres,1719,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-12-23,Juan López,1682,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-06-20,Luis Torres,1420,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-03-20,Elena Rivas,1280,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-05-06,Ana Martínez,1734,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-07-27,Andrés Castro,335,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-09-23,Pedro Sánchez,1465,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-05-25,Pedro Sánchez,173,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-07-21,Juan López,1010,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-01-05,Luis Torres,226,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-05-28,Sofía Romero,997,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-08-29,Juan López,1674,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-06-21,Marta Díaz,458,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-08-07,Luis Torres,1124,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-03-19,Ana Martínez,764,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-06-01,Luis Torres,1202,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-12-12,Marta Díaz,1422,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-02-22,Luis Torres,1132,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-12-20,Andrés Castro,1369,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-10-02,Sofía Romero,1113,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-11-05,Luis Torres,1761,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-08-01,Sofía Romero,301,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-09-03,Elena Rivas,383,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-05-13,Luis Torres,168,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-08-16,Ana Martínez,1732,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-08-25,Juan López,1302,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-11-01,Andrés Castro,321,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-10-11,Juan López,1143,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-08-29,Juan López,40,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-06-19,Pedro Sánchez,575,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-04-10,Juan López,140,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-10-31,Elena Rivas,1211,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-07-09,Marta Díaz,1287,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-06-07,Ana Martínez,1527,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-06-11,Lucía Gómez,377,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-07-05,Elena Rivas,1523,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-05-05,Andrés Castro,651,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-11-03,Juan López,803,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-11-27,Carlos Pérez,1641,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-10-15,Juan López,1219,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-04-17,Carlos Pérez,151,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-10-05,Andrés Castro,1791,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-05-23,Lucía Gómez,238,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-08-13,Pedro Sánchez,1287,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-12-20,Sofía Romero,1207,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-01-16,Pedro Sánchez,615,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-08-18,Ana Martínez,691,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-12-11,Pedro Sánchez,288,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-09-01,Sofía Romero,80,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-05-28,Andrés Castro,955,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-10-11,Juan López,1056,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-11-28,Marta Díaz,1205,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-06-22,Pedro Sánchez,813,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-03-10,Marta Díaz,1106,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-02-27,Marta Díaz,1282,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-11-05,Elena Rivas,1714,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-02-04,Luis Torres,90,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-04-18,Carlos Pérez,304,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-02-04,Luis Torres,1199,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-04-06,Luis Torres,200,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-10-11,Sofía Romero,468,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-07-14,Lucía Gómez,681,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-08-18,Andrés Castro,1340,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-09-15,Juan López,488,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-03-23,Elena Rivas,1453,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-03-21,Elena Rivas,355,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-10-09,Juan López,876,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-11-15,Sofía Romero,429,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-08-13,Carlos Pérez,45,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-04-18,Pedro Sánchez,322,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-05-02,Marta Díaz,428,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-12-31,Luis Torres,1248,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-03-10,Luis Torres,300,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-04-26,Lucía Gómez,356,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-08-11,Lucía Gómez,595,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-02-18,Juan López,447,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-02-16,Juan López,1049,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-07-26,Elena Rivas,1449,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-02-23,Pedro Sánchez,55,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-06-07,Carlos Pérez,440,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-10-27,Pedro Sánchez,1465,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-10-08,Luis Torres,540,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-07-19,Andrés Castro,1687,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Parada de línea,2023-12-17,Sofía Romero,1151,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-02-13,Marta Díaz,1707,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-01-25,Marta Díaz,843,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-10-21,Ana Martínez,204,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-12-27,Marta Díaz,964,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-11-12,Ana Martínez,1208,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-09-05,Lucía Gómez,1206,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-08-06,Pedro Sánchez,84,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-07-11,Juan López,634,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-04-10,Sofía Romero,787,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Inicio de operación,2023-11-03,Pedro Sánchez,1461,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-04-30,Sofía Romero,1491,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-03-27,Luis Torres,1064,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-08-19,Andrés Castro,814,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-06-25,Lucía Gómez,775,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Limpieza programada,2023-08-25,Carlos Pérez,167,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-12-02,Marta Díaz,1185,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-02-11,Sofía Romero,1667,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-08-27,Sofía Romero,876,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-01-29,Pedro Sánchez,866,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-10-13,Lucía Gómez,1255,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-10-05,Marta Díaz,1197,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Alarma de sensor,2023-01-01,Elena Rivas,1388,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Mantenimiento preventivo,2023-04-20,Sofía Romero,1485,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-02-24,Juan López,373,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Prueba de sensores,2023-08-30,Elena Rivas,1511,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Error en cinta,2023-08-30,Juan López,55,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Intervención técnica,2023-09-01,Carlos Pérez,418,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-10-11,Luis Torres,576,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Reinicio del sistema,2023-03-02,Pedro Sánchez,1260,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-05-05,Andrés Castro,1240,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
+5,Desempaque manual,2023-04-27,Luis Torres,1730,Modelo B,Línea 5,2019-06-06,2023-01-25,Pedro Sánchez
